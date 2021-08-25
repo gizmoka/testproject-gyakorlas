@@ -1,4 +1,4 @@
-name: Python CI-CD with allure report
+name: Python KepesitoVizsga CI-CD with allure report
 
 on:
   push:
