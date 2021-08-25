@@ -2,9 +2,9 @@ name: Python CI-CD with allure report képesito vizsga
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
