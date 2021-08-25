@@ -1,0 +1,42 @@
+{
+  "6d1926f8ae4219fa849a1e590cde2a62" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1bb68db2c438c940",
+      "reportUrl" : "https://gizmoka.github.io/testproject-gyakorlas/1//#testresult/1bb68db2c438c940",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629884745437,
+        "stop" : 1629884747943,
+        "duration" : 2506
+      }
+    } ]
+  },
+  "87801247935c9bef293d7e04c70914e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "20c45e6fad0965d",
+      "reportUrl" : "https://gizmoka.github.io/testproject-gyakorlas/1//#testresult/20c45e6fad0965d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629884748000,
+        "stop" : 1629884752588,
+        "duration" : 4588
+      }
+    } ]
+  }
+}

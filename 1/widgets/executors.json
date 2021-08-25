@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://gizmoka.github.io/testproject-gyakorlas",
+  "buildOrder" : 1,
+  "buildName" : "GitHub Actions Run #1166002156",
+  "buildUrl" : "https://github.com/gizmoka/testproject-gyakorlas/actions/runs/1166002156",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://gizmoka.github.io/testproject-gyakorlas/1/"
+} ]
